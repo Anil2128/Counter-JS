@@ -1,0 +1,31 @@
+
+
+.container{
+    margin-top: 300px;
+    padding-top: 150px;
+    height: 300px;
+    text-align: center;
+}
+.container h1{
+    font-size: 3rem;
+}
+.btn-container{
+    margin-top: 20px;
+    height: 10vh;
+}
+.btn{
+    height: 3.5rem;
+    width: 10rem;
+    border-radius: 25px;
+    border: solid 1px black;
+    font-size: 1.5rem;
+    background-color: black;
+    color:white;
+}
+.btn:hover{
+    border:none;
+    
+}
+#value{
+    font-size: 2rem;
+}
